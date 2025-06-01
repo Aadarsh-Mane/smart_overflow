@@ -1,4 +1,3 @@
-import 'package:flutter/rendering.dart';
 import 'package:flutter/widgets.dart';
 
 class OverflowDetector {
@@ -29,7 +28,6 @@ class OverflowDetector {
   }
 
   static Size measureWidget(Widget widget, BoxConstraints constraints) {
-    final renderObject = widget.createElement();
     // Complex measurement logic here
     return Size.zero; // Placeholder
   }
