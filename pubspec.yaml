@@ -1,6 +1,6 @@
 name: smart_overflow
 description: A comprehensive Flutter package for detecting, preventing, and handling overflow errors intelligently.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/Aadarsh-Mane/smart_overflow
 
 environment:
